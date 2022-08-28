@@ -9,6 +9,9 @@
   overflow-x: hidden;
 }
 
+.mobile-logo {
+    display: none;
+}
 .logo {
   flex: 1;
 }
