@@ -1,0 +1,140 @@
+@media (max-width: 980px) {
+  .navbar ul {
+    flex-wrap: wrap;
+  }
+
+  .navbar-toggle {
+    display: block;
+  }
+
+  .navbar-link {
+    display: none;
+    width: 100%;
+    text-align: center;
+  }
+
+  .active {
+    display: block;
+  }
+
+  .h-primary {
+    font-size: 45px;
+    margin: 60px 0px 0px 0px;
+
+  }
+
+  .h-primary1 {
+    font-size: 25px;
+    margin: 14px 15px 0px 15px;
+  }
+
+  .haridwar h4 {
+    font-size: 23px;
+    color: antiquewhite;
+    padding-right: 3px;
+    box-shadow: inset 0 0 8rem rgb(0 0 1);
+    overflow: hidden;
+    padding: 141px 0px 3px 3px;
+    flex-wrap: wrap;
+  }
+
+  .clint-1 {
+    font-size: 26px;
+    color: whitesmoke;
+    background-color: #3f3f7e;
+    box-shadow: inset 0 0 3rem rgba(0, 0, 0.6);
+  }
+
+  .mobile-logo {
+    display: block;
+  }
+
+  .tr img {
+    margin-top: 50px;
+    height: 50vh;
+  }
+
+  .hp{
+   margin-top: 64px;
+   font-size: 30px;
+   background-color: #3f3f7e;
+   box-shadow: inset 0 0 3rem rgba(0, 0, 0.6);
+   color: whitesmoke;
+  }
+
+  #services{
+   flex-direction: column;
+   align-items: center;
+  }
+
+  #services .box{
+   margin-top: 20px;
+    border: 3px solid;
+    
+  }
+  #services .box p {
+   background-color: #3f3f7e;
+   box-shadow: inset 0 0 3rem rgba(0, 0, 0.6);
+   color: white;
+  }
+
+  #services .h-secondary {
+   color: black !important;
+   font-size: 1.8rem;
+   font-weight: bold;
+   background-color:rgba(245, 222, 179, 0.584);
+   
+  }
+
+  #about .h-primary {
+   font-size: 30px;
+   width: 100%;
+   height: 9%;
+}
+  #about .po{
+   font-size: 1.03rem;
+   margin: 40px 10px 10px 5px;
+   color: #3f3f7e;
+   box-shadow: inset 0 0 3rem rgba(0, 0, 0.6);
+   font-weight: bold;
+
+  }
+
+  #container{
+    flex-direction: column;
+  
+    align-items: center;
+  }
+
+  .expertise{
+    flex-direction: column;
+  }
+
+  .box1 a,
+  .box4 a{
+    font-size: 1.5rem;
+  }
+  .box,
+  .box1,
+  .box2,
+  .box3,
+  .box4{
+    margin-bottom: 50px;
+    width: 234px;
+    margin-left: 0px;
+   
+}
+
+  .exprtise img {
+    width: 100vw;
+   
+}
+
+  #content{
+    flex-direction:column ;
+    margin-top: 5px;
+    align-items: center;
+
+  }
+
+}
