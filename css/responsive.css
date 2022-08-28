@@ -100,7 +100,8 @@
 
   }
   #about{
-    height:133vh;}
+    height:133vh;
+  }
 
   #container{
     flex-direction: column;
