@@ -10,7 +10,10 @@
 
 }
 
-
+.mobile-logo{
+    display:none;
+}
+    
 
 
 .logo{
@@ -61,7 +64,7 @@
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    background: url("/img/pexels-pixabay-208518.jpg")no-repeat center center/cover ;
+    background: url("../img/pexels-pixabay-208518.jpg")no-repeat center center/cover ;
     width: 100vw;
     height:110vh ;
   }
